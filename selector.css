@@ -1,0 +1,40 @@
+#textBox {
+	/* width: 240px;
+	height: 200px;
+	border: 1px solid red;
+	margin: auto;
+	padding: 20px 15px; */
+	display: none;
+}
+.highlight {
+	background-color: #ff10cc;
+}
+
+.hidden {
+	display: none;
+}
+
+#textBox3 {
+	width: 200px;
+	min-height: 100px;
+	background-color: black;
+	color: white;
+	padding: 10px;
+}
+#container {
+	padding: 10px;
+}
+
+#main {
+	margin-top: 30px;
+	border: 2px solid red;
+	padding: 10px;
+}
+
+.colorBox {
+	color: rgba(236, 15, 188, 0.911);
+}
+
+.color {
+	color: darkorange;
+}
